@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0362e70.css",
+    "main.js": "/static/js/main.34334dee.js",
+    "static/media/home_portal.png": "/static/media/home_portal.2a44c8235f70539f724b.png",
+    "static/media/photo2.png": "/static/media/photo2.769a344fd9d5f2e920cb.png",
+    "static/media/photo3.png": "/static/media/photo3.603411f2fd819eeb01c4.png",
+    "static/media/photo4.png": "/static/media/photo4.229d4d5b17e488fb5442.png",
+    "static/media/photo1.png": "/static/media/photo1.36fc64dabf66b2aa1a0d.png",
+    "static/media/mystuds.png": "/static/media/mystuds.68a61faeb9d8e8cae6c2.png",
+    "static/media/mystud.png": "/static/media/mystud.882a00511d18634fe3c3.png",
+    "static/media/grup3.png": "/static/media/grup3.9de70b87f3a894ee88d3.png",
+    "static/media/grup4.png": "/static/media/grup4.1b4a64cf0dd806468d5c.png",
+    "static/media/grup1.png": "/static/media/grup1.cd324877f91461c9402e.png",
+    "static/media/grup2.png": "/static/media/grup2.cd324877f91461c9402e.png",
+    "static/media/achieveimg.png": "/static/media/achieveimg.2706c615a3354105e529.png",
+    "static/media/logo4.png": "/static/media/logo4.9360af26c48c241df9d4.png",
+    "static/media/hathi.png": "/static/media/hathi.9deb4a85fe1029a2116d.png",
+    "static/media/logo3.png": "/static/media/logo3.67b4326b4c2a9a53cecf.png",
+    "static/media/ujala.png": "/static/media/ujala.70031ba908907a2f598d.png",
+    "static/media/midday.png": "/static/media/midday.fd6be5b964b262856e33.png",
+    "index.html": "/index.html",
+    "main.c0362e70.css.map": "/static/css/main.c0362e70.css.map",
+    "main.34334dee.js.map": "/static/js/main.34334dee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0362e70.css",
+    "static/js/main.34334dee.js"
+  ]
+}
